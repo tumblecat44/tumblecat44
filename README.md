@@ -3,10 +3,24 @@
 ## 🚀 About Me
 
 > *"Talk is cheap. Show me the code."* - Linus Torvalds
+> 
+👋 Hi, I'm Geonhee Lee — a developer driven by flexible thinking and endless curiosity.
 
-I turn ideas into code, building efficient and clean solutions. Focused on Kotlin and Android development, I aim to create what I envision through code.
+🔧 Tech Stack:
 
-## 💻 Tech Stack
+Android Development — Kotlin, Jetpack Compose, Compose Multiplatform
+
+Backend Development — Spring Boot, REST API
+
+AI & LLM — FastAPI, LangGraph, LangChain
+
+💡 What I’m working on:
+
+🧠 Exploring LLM technologies to bridge the knowledge gap between devs & non-devs
+
+🔥 Developing Android apps and backend services using Kotlin
+
+💪 Studying CS fundamentals, algorithms, and networking to dive into deep tech
 
 <div align="center">
 

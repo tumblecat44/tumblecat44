@@ -5,18 +5,31 @@
 > 
 👋 Hi, I'm Geonhee Lee — a full-stack developer driven by flexible thinking and endless curiosity.
 
-🔧 Tech Stack:
+---
+
+
+**🔧 Tech Stack:**
+
 **Frontend** — React, TypeScript, Next.js, Tailwind CSS
-**Mobile** — Kotlin, Jetpack Compose, React Native
+
+**Mobile** — Kotlin, Jetpack Compose
+
 **Backend** — Spring Boot, Node.js, REST API, GraphQL
-**Database** — PostgreSQL, MongoDB, Redis
-**DevOps** — Docker, AWS, CI/CD
+
+**Database** — MYSQL, Redis
+
+**DevOps** — Docker, AWS, CI/CD, GitAction
+
 **AI & LLM** — FastAPI, LangGraph, LangChain
 
 💡 What I'm working on:
+
 🌐 Building end-to-end web applications with modern tech stacks
+
 🧠 Exploring LLM technologies to bridge the knowledge gap between devs & non-devs
+
 📱 Developing cross-platform mobile and web solutions
+
 💪 Studying CS fundamentals, algorithms, and system design to build scalable applications
 
 <div align="center">

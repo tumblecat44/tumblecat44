@@ -20,7 +20,7 @@
 
 **DevOps** — Docker, AWS, CI/CD, GitAction
 
-**AI & LLM** — FastAPI, LangGraph, LangChain
+**AI & LLM** — FastAPI, LangGraph, LangChain, Pinecone
 
 💡 What I'm working on:
 

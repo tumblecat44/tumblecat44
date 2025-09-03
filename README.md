@@ -3,7 +3,7 @@
 
 > *"Talk is cheap. Show me the code."* - Linus Torvalds
 > 
-👋 Hi, I'm Geonhee Lee — a full-stack developer driven by flexible thinking and endless curiosity.
+👋 Hi, I'm Geonhee Lee(Jason) — a full-stack developer driven by flexible thinking and endless curiosity.
 
 ---
 

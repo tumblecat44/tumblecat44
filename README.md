@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 
-> *"Talk is cheap. Show me the code."* - Linus Torvalds
+> *"Make Humans More Creative"* - Jason Lee
 > 
 👋 Hi, I'm Geonhee Lee(Jason) — a full-stack developer driven by flexible thinking and endless curiosity.
 

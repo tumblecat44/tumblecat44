@@ -7,19 +7,6 @@
 I believe human creativity should never be wasted on repetitive work.  
 Through projects like **Sync**, **Commitly**, and **Exam Buddy PT**, I’ve been building **AI-powered systems** that automate what machines can handle — so humans can focus on **creative problem-solving** and **critical thinking** instead.
 
----
-
-### 🧩 What I'm Working On
-
-💼 **Sync** — Leading the development of an AI-powered project management SaaS that bridges the gap between developers and non-developers.  
-It automates **issue creation**, **ERD generation**, and **scheduling** through a custom **LLM architecture (PDE: Plan–Decision–Execute)** built on **FastAPI** and **LangGraph**.
-
-🪄 **Commitly** — Built an app that automatically writes daily retrospectives for developers, letting them focus more on creating and less on documenting.
-
-🧠 **Exploration** — Researching how **LLM frameworks** like *LangGraph* and *MCP* can enable **autonomous reasoning** and **structured AI workflows**.
-
----
-
 ### 🛠️ Tech Stack
 
 **Frontend** — React, **TypeScript** ( IT IS BEST LANGUAGE ), Next.js, Tailwind CSS  

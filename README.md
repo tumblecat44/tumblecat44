@@ -42,7 +42,7 @@ Through projects like **Sync**, **Commitly**, and **Exam Buddy PT**, I’ve been
 💻 [GitHub](https://github.com/tumblecat44)  
 🧠 [Blog](https://jason-lee.dev/blog)  
 🔗 [LinkedIn](https://linkedin.com/in/jason-lee)  
-📧 **Email:** jason@jason-lee.dev  
+📧 **Email:** hello@jason-lee.dev  
 
 ---
 

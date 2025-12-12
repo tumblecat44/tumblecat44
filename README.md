@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-> *"Make Humans More Creative"* — Jason Lee
+> *"Let's make people more creative"* — Jason Lee
 
 👋 Hi, I'm **Geonhee Lee (Jason)** — a full-stack developer from **Daegu Software Meister High School (DGSW)**, driven by **flexible thinking** and **endless curiosity**.
 

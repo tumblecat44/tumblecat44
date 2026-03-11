@@ -28,9 +28,8 @@
 ### 🤖 AI-Readable Portfolio
 
 > My portfolio is a prompt.
-
-더 궁금하다면, 아래 주소를 당신의 AI Agent에게 넣어보세요:
+> if you're still curious, using below to your AI 
 
 ```
-https://myportfolioisprompt.com/tumblecat44/readme.md
+https://myportfolioisprompt.vercel.app/tumblecat44/readme.md
 ```
